@@ -1,0 +1,11 @@
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\bin\Debug\segundo_herencia.exe
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\bin\Debug\segundo_herencia.pdb
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\obj\x86\Debug\segundo_herencia.Form1.resources
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\obj\x86\Debug\segundo_herencia.Properties.Resources.resources
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\obj\x86\Debug\segundo_herencia.csproj.GenerateResource.Cache
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\obj\x86\Debug\segundo_herencia.exe
+C:\Users\Lab3redes_13\AppData\Local\Temporary Projects\segundo_herencia\obj\x86\Debug\segundo_herencia.pdb
+F:\XXXXXXXX\3 Programación Orientada a Objetos I\practica_2\segundo_herencia\segundo_herencia\obj\x86\Debug\segundo_herencia.exe
+F:\XXXXXXXX\3 Programación Orientada a Objetos I\practica_2\segundo_herencia\segundo_herencia\obj\x86\Debug\segundo_herencia.Form1.resources
+F:\XXXXXXXX\3 Programación Orientada a Objetos I\practica_2\segundo_herencia\segundo_herencia\obj\x86\Debug\segundo_herencia.Properties.Resources.resources
+F:\XXXXXXXX\3 Programación Orientada a Objetos I\practica_2\segundo_herencia\segundo_herencia\obj\x86\Debug\segundo_herencia.csproj.GenerateResource.Cache
